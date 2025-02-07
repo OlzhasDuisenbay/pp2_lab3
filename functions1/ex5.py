@@ -1,6 +1,7 @@
+#Write a function that accepts string from user and print all permutations of that string.
 import itertools
-
 def print_permutations(s):
+
     for p in itertools.permutations(s):
         print(''.join(p))
 
