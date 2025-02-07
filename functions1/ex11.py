@@ -7,3 +7,4 @@ def is_palindrome(word):
 word = input("Enter a word or phrase: ").replace(" ", "")
 
 print(f"The word or phrase '{word}' is {'a palindrome' if is_palindrome(word) else 'not a palindrome'}.")
+# qazaq >>> The word or phrase 'qazaq' is a palindrome.
