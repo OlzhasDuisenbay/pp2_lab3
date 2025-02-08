@@ -9,7 +9,7 @@ class StringProcessor:
 
     def printString(self):
         print(self.text.upper())
-obj = StringManipulator()
+obj = StringProcessor()
 obj.getString()
 obj.printString()
 #kbtu >>> KBTU
