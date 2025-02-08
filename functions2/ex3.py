@@ -15,5 +15,5 @@ movies = [
 ]
 
 print(movies_by_category(movies, "Romance"))
-""""""[{'name': 'The Choice', 'imdb': 6.2, 'category': 'Romance'}, {'name': 'Colonia', 'imdb': 7.4, 'category': 'Romance'}]"""
+"""[{'name': 'The Choice', 'imdb': 6.2, 'category': 'Romance'}, {'name': 'Colonia', 'imdb': 7.4, 'category': 'Romance'}]"""
 
